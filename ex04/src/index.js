@@ -1,9 +1,9 @@
 function main() {
     // Only change code below this line
 
-    var myString = "This is the first string." + " This is the second String."
+    var myString = "This is the first string." + " This is the second String.";
     // myString is "First string, Second String."
-    //Only change code above this line  
+    // Only change code above this line  
     return myString;
     
 }
